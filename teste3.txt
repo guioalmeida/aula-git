@@ -1,2 +1,1 @@
 exemplo de inserção de arquivo texto
-hello world !
